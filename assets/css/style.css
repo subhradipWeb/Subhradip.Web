@@ -70,9 +70,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #header .profile img {
   margin: 15px auto;
+  border-radius: 50px;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 2.2px solid #2c2f3f;
 }
 
 #header .profile h1 {
@@ -386,7 +387,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
@@ -1074,4 +1075,15 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+/* -------------------------------------------------------------------- */
+
+.img-fluid1{
+  margin: 15px auto;
+  border-radius: 50px;
+  display: block;
+  width: 350px;
+  height: 450px;
+  border: 2.2px solid #2c2f3f;
+  
 }
